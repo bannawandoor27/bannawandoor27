@@ -16,6 +16,10 @@
 - 💬 Ask me about **Django,Python and building up effective algorithms**
 
 - 📫 How to reach me **bannawandoor@gmail.com**
+# ![Snake animation](/github-grid-snake.svg)
+
+ 
+ <span><a href="https://www.linkedin.com/in/chris-townsend93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
