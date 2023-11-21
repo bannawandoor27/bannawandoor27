@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hasanul Banna</h1>
-<h3 align="center">I develope backend on weekend😃</h3>
+<h3 align="center">I develop backend on weekend😃</h3>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3c0U8bHLnxWm55Gw-N3jV_it7YK7qpVclxg&usqp=CAU" alt="" align='centered' width='400'>
 
