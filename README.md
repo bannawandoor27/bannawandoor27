@@ -1,6 +1,6 @@
 # Hasanul Banna
 
-I [create](https://dev.hasanulbanna.in/projects). I [innovate](https://dev.hasanulbanna.in/about). Software engineering at [Radixlink Inc](https://www.radixlink.com/).
+I [read](https://dev.hasanulbanna.in/projects). I [code](https://dev.hasanulbanna.in/about).making and breaking at [Radixlink Inc](https://www.radixlink.com/).
 
 ----
 Contact me:
