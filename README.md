@@ -5,7 +5,7 @@ I [create](https://dev.hasanulbanna.in/projects). I [innovate](https://dev.hasan
 ----
 Contact me:
 ```
-connect [at] hasnulbanna [dot] in
+connect [at] hasanulbanna [dot] in
 ```
 PGP fingerprint:
 ```
