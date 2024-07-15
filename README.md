@@ -1,4 +1,4 @@
-i [read]([https://github.com/bannawandoor27/Readings]). i [write]([https://read.hasanulbanna.in/]). i [code]([https://github.com/bannawandoor27]). making and breaking at [radixlink](https://www.radixlink.com/).
+i [read](https://github.com/bannawandoor27/Readings). i [write](https://read.hasanulbanna.in/). i [code](https://github.com/bannawandoor27). making and breaking at [radixlink](https://www.radixlink.com/).
 
 ----
 contact me:
