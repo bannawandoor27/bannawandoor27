@@ -1,4 +1,4 @@
-i [read](https://github.com/bannawandoor27/Readings). i [write](https://read.hasanulbanna.in/)
+i [read](https://github.com/bannawandoor27/Readings). i [write](https://read.hasanulbanna.in/). building cadmium and rosterly
 ----
 contact me:
 ```
