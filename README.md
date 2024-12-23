@@ -1,10 +1,11 @@
-i [read](https://github.com/bannawandoor27/Readings). i [write](https://read.hasanulbanna.in/). building cadmium and rosterly
-----
-contact me:
-```
-connect [at] hasanulbanna [dot] in
-```
-pgp fingerprint:
-```
-B3F7 9D2E 1A5C 6084 R3T9 H7M2 K9P6 L4W8 X2Y5 Z1Q0
-```
+# Hello, Ben here
+I build softwares and ghostwrite if the content is interesting.
+
+> "I realize that under the circumstances you have described you feel the need to see clearly. But your vision will become clear only when you can look into your own heart. Without, everything seems discordant; only within does it coalesce into unity. **Who looks outside dreams; who looks inside awakes.**"  
+> — *Letters (1916) to Fanny Bowditch*, Carl Jung
+
+---
+
+### Contact
+**connect** [at] **hasanulbanna** [dot] **in**  
+Or simply [email me](mailto:connect@hasanulbanna.in)
